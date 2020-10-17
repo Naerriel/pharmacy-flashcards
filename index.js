@@ -5,7 +5,7 @@ const flashcards = [
         img: 'https://img.hopaj.pl/images/0/d/0d78d5cdba406d08cdb0704edcfce717.jpg',
     },
     {
-        question: 'Kto jest ukochanym koteczkiem?!',
+        question:'Kto jest ukochanym koteczkiem?!',
         answer: 'Moja cudowniutka Olusia <3!!!',
         img: 'https://ca.slack-edge.com/T017AD2GP50-U017GJK4UPN-e5705864f239-512',
     }
